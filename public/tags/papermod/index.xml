@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod on Sunny Side</title>
+    <link>http://localhost:1313/tags/papermod/</link>
+    <description>Recent content in PaperMod on Sunny Side</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🌻Sunny Side Where the Flowers Bloom</title>
+      <link>http://localhost:1313/posts/papermod/papermod-installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/papermod/papermod-installation/</guid>
+      <description>What&amp;rsquo;s on the sunny side?</description>
+    </item>
+    <item>
+      <title>Paintings Corner 🎨🖌️✍🏻👩🏻‍🎨</title>
+      <link>http://localhost:1313/posts/papermod/papermod-features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/papermod/papermod-features/</guid>
+      <description>This corner contains some of maii&amp;rsquo;s paintings. Click the title to view the contents of this corner.</description>
+    </item>
+  </channel>
+</rss>
